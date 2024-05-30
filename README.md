@@ -1,7 +1,5 @@
-## Hi there 👋 It's me Durai Murugan
-
-
-A Passionate Web Developer 
+<h1 align="center">Hi 👋, I'm Durai Murugan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>                                 
 
 
