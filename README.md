@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durai Murugan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>                                 
 
 - 🌱 I’m currently learning **DSA**
@@ -9,7 +9,7 @@
 
 <br />
 <h3 align="left">Connect with me:</h3>
-
+<p align="left">
 <a href="https://x.com/dhawandurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Durai Murugan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/durai03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Durai Murugan" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_.d_.36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Durai Murugan " height="30" width="40" /></a>
