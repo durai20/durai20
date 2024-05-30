@@ -9,10 +9,11 @@ A Passionate Web Developer
 - 🌱 I’m currently learning **DSA**
 - 👯 I’m  Working on Web **Development**
 - 💬 Ask me about Tech
-- 📫 How to reach me :
 - 📫 How to reach me **duraimurugan.v2003@gmail.com**
 
 <br />
+<h3 align="left">Connect with me:</h3>
+
 <a href="https://x.com/dhawandurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Durai Murugan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/durai03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Durai Murugan" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_.d_.36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Durai Murugan " height="30" width="40" /></a>
