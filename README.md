@@ -26,4 +26,4 @@ A Passionate Web Developer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durai20&layout=compact)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/durai_codes?theme=dark&font=Germania%20One&ext=heatmap)
 
-[![Durai github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durai20&bg_color=161215&color=9e4c98&line=c814bc&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Durai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durai20&bg_color=161215&color=efe1ef&line=5bc85c&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
