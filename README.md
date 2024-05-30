@@ -6,10 +6,11 @@ A Passionate Web Developer
 
 
 
-- 🌱 I’m currently learning DSA
-- 👯 I’m  Working on Web Development
+- 🌱 I’m currently learning **DSA**
+- 👯 I’m  Working on Web **Development**
 - 💬 Ask me about Tech
 - 📫 How to reach me :
+- 📫 How to reach me **duraimurugan.v2003@gmail.com**
 
 <br />
 <a href="https://x.com/dhawandurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Durai Murugan" height="30" width="40" /></a>
@@ -27,7 +28,9 @@ A Passionate Web Developer
 
 
 ![Durai's GitHub stats](https://github-readme-stats.vercel.app/api?username=durai20&theme=dark&show_icons=true&&hide=issues,contribs)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durai20&layout=compact)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/durai_codes?theme=dark&font=Germania%20One&ext=heatmap)
 
 [![Durai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durai20&bg_color=000000&color=efe1ef&line=5bc85c&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
