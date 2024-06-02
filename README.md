@@ -25,6 +25,7 @@
 
 
 ![Durai's GitHub stats](https://github-readme-stats.vercel.app/api?username=durai20&theme=dark&show_icons=true&&hide=issues,contribs)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=durai20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/durai_codes?theme=dark&font=Germania%20One&ext=heatmap)
